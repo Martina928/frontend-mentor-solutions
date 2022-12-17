@@ -1,0 +1,15 @@
+# Frontend Mentor Solutions
+
+This repo is the collection of challenges I've done form [Frontend Mentor](https://www.frontendmentor.io/home/my-challenges).
+
+To improve my coding skills by building realistic projects.
+
+## Search by levels
+
+- [Newbie](#Newbie)
+
+### Newbie
+
+| NO | Challenge | Demo | Level |
+| :---: | :---: | :---: | :---: |
+| 01 | [QR code component](https://github.com/Martina928/frontend-mentor-solutions/tree/main/01-qr-code-component) | [Demo](https://martina928.github.io/frontend-mentor-solutions/01-qr-code-component/) | Newbie |

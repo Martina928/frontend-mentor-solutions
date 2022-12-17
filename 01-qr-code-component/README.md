@@ -40,7 +40,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 This is my first challenge at Frontend Mentor. 
+
 I tried to use BEM naming for the class names, and use relative units rather than absolute units in CSS style. 
+
 I used `margin` attribute for `.card ` to align center in the beginning. However, it would be a problem when the height of viewport shrink. Then, I used `Flexbox` to deal with this question. So that the card will be placed in the center at any viewport size.
 
 ## Author
