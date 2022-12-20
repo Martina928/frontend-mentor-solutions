@@ -149,7 +149,7 @@ body {
 }
 
 /* media query */
-@media screen and (min-width: 375px){
+@media screen and (min-width: 550px){
   .card {
     flex-direction: row;
     max-width: 35rem;
